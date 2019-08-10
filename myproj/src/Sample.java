@@ -8,5 +8,10 @@ public class Sample {
 		
 		
 	}
+	
+	public void f2()
+	{
+		
+	}
 
 }
