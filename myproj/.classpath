@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/sel_7am/Lib/byte-buddy-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/sel_7am/Lib/client-combined-3.12.0.jar"/>
+	<classpathentry kind="lib" path="D:/sel_7am/Lib/client-combined-3.12.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/sel_7am/Lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/sel_7am/Lib/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="D:/sel_7am/Lib/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="D:/sel_7am/Lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/sel_7am/Lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/sel_7am/Lib/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="D:/sel_7am/Lib/guava-23.6-jre.jar"/>
+	<classpathentry kind="lib" path="D:/sel_7am/Lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/sel_7am/Lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/sel_7am/Lib/okhttp-3.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/sel_7am/Lib/okio-1.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/sel_7am/Lib/poi-4.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/sel_7am/Lib/poi-ooxml-4.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/sel_7am/Lib/poi-ooxml-schemas-4.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/sel_7am/Lib/selenium-server-standalone-3.12.0.jar"/>
+	<classpathentry kind="lib" path="D:/sel_7am/Lib/sqljdbc4-2.0.jar"/>
+	<classpathentry kind="lib" path="D:/sel_7am/Lib/testng-6.9.10.jar"/>
+	<classpathentry kind="lib" path="D:/sel_7am/Lib/xmlbeans-3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/sel_7am/Lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="D:/sel_7am/Lib/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/sel_7am/Lib/extentreports-3.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/sel_7am/Lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/sel_7am/Lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/sel_7am/Lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="D:/sel_7am/Lib/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/sel_7am/Lib/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/sel_7am/Lib/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
